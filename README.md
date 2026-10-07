@@ -6,6 +6,12 @@ Projekt je nastal kot nadgradnja domače naloge pri predmetu **Teorija informaci
 
 Pri projektu sem algoritem **BPE (Byte Pair Encoding)** uporabila za brezizgubno stiskanje sintetičnih podatkov o bančnih transakcijah. Podatki so namenoma sintetični in ne vsebujejo pravih bančnih podatkov.
 
+## Motivacija
+
+Projekt sem razvila iz zanimanja za uporabo informatike v bančništvu. Banke obdelujejo in hranijo velike količine transakcijskih podatkov, zato je učinkovito shranjevanje pomembno tako z vidika prostora kot tudi obdelave podatkov. Z BPE sem želela raziskati, kako lahko podatke brez izgube informacij stisnemo in zmanjšamo količino prostora, ki ga zavzamejo.
+
+Pri tem sem preverila tudi, kako na učinkovitost stiskanja vpliva ponavljanje vzorcev v transakcijskih podatkih.
+
 ## Podatki
 
 Vsaka transakcija je zapisana v obliki:
